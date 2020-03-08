@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d72e1440-bb06-4d35-b78d-cab86f98a07e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YgkLb2NEOgDEvRK6hdsCBvheUG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DfToJson" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.net.oi.DfToJson" />
+      <module name="ParserApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.net.oi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ParserApp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/C:/Users/diego.peres/Desktop/scala/jobs/ParserApp/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ParserApp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3158387103034" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1061816976" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/OneDrive - Accenture/Desktop/Desktop/accenture/Projetos/Oi HUB/Arquivos/spark/ParserApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Accenture/Desktop/Desktop/accenture/Projetos/Oi HUB/GIT_ACCENTURE/bd-gestaodesempenho/edge/etl_hdp/hub_digital/desempenho_operacional/script/scala/jobs/ParserApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Accenture/Desktop/Desktop/accenture/Projetos/Oi HUB/GIT_ACCENTURE/bd-gestaodesempenho/edge/etl_hdp/hub_digital/desempenho_operacional/scripts/scala/jobs/ParserApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Accenture/Desktop/Desktop/accenture/Projetos/Oi HUB/GIT_ACCENTURE/bd-gestaodesempenho/scala/jobs/ParserApp" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Accenture/Desktop/Desktop/accenture/Projetos/Oi HUB/GIT_ACCENTURE/bd-gestaodesempenho/src/scala/jobs/ParserApp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72e1440-bb06-4d35-b78d-cab86f98a07e" name="Default Changelist" comment="" />
+      <created>1583371569806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583371569806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="31" key="#TesteNasa" timestamp="1583509137989">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state x="360" y="31" key="#TesteNasa/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583509137989" />
+    <state x="405" y="116" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583509250631">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state x="405" y="116" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583509250631" />
+    <state x="405" y="116" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/68.0.1212.720/1920.0.1366.738@68.0.1212.720" timestamp="1583500309861" />
+    <state x="81" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583513112776">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state x="81" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513112776" />
+    <state x="355" y="88" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583372132269">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state x="355" y="88" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/68.0.1212.720@68.0.1212.720" timestamp="1583372132269" />
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.0.center" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.center/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.0.left" timestamp="1583513152133">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.left/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152133" />
+    <state width="1169" height="220" key="GridCell.Tab.0.right" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.0.right/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.1.center" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.center/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.1.left" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.left/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state width="1169" height="220" key="GridCell.Tab.1.right" timestamp="1583513152134">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state width="1169" height="220" key="GridCell.Tab.1.right/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
+    <state x="370" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583372200990">
+      <screen x="68" y="0" width="1212" height="720" />
+    </state>
+    <state x="370" y="184" key="com.intellij.ide.util.TipDialog/68.0.1212.720@68.0.1212.720" timestamp="1583372200990" />
+  </component>
+</project>

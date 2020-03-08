@@ -1,0 +1,31 @@
+[info] Packaging C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\parserapp_2.10-1.1.0.jar ...
+[debug] Input file mappings:
+[debug] 	br\net\oi\DfToJson$$anonfun$1.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$1.class
+[debug] 	br\net\oi\DfToJson$$anonfun$3.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$3.class
+[debug] 	br
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br
+[debug] 	br\net\oi\DfToJson$delayedInit$body.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$delayedInit$body.class
+[debug] 	br\net\oi\DfToJson$$anonfun$2.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$2.class
+[debug] 	br\net
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net
+[debug] 	br\net\oi\DfToJson$$anonfun$5.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$5.class
+[debug] 	br\net\oi\DfToJson$$anonfun$7.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$7.class
+[debug] 	br\net\oi\DfToJson$$anonfun$8.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$8.class
+[debug] 	br\net\oi\DfToJson.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson.class
+[debug] 	br\net\oi
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi
+[debug] 	br\net\oi\DfToJson$$anonfun$6.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$6.class
+[debug] 	br\net\oi\DfToJson$$anonfun$4.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$$anonfun$4.class
+[debug] 	br\net\oi\DfToJson$.class
+[debug] 	  C:\Users\diego.peres\Desktop\scala\jobs\ParserApp\target\scala-2.10\classes\br\net\oi\DfToJson$.class
+[info] Done packaging.
