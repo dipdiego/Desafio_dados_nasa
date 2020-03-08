@@ -22,8 +22,8 @@ object DfToJson extends App {
 
   //PATCH
   //HDFS
-  val pathHiveIn = "/oi/user_work/hub/hive/wrk_hub_database/saida/export_history_posh_app/"
-  val pathHiveOut = "/oi/user_work/hub/hive/wrk_hub_database/saida/export_history_posh_app/"
+  val pathHiveIn = "CAMINHO DO HDFS, ARQUIVOS DE ENTRADA"
+  val pathHiveOut = "CAMINHO DO HDFS, SAIDA DOS ARQUIVOS "
   //Name file Input
   val nameFileIn1 = "NASA_access_log_Aug95"
   val nameFileIn2 = "NASA_access_log_Jul95"
