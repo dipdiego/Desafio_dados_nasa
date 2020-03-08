@@ -69,8 +69,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3158387103034" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1061816976" />
+        <entry key="$PROJECT_DIR$" value="3158387366945" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3578952834" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
     </option>
@@ -115,41 +115,49 @@
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state x="355" y="88" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/68.0.1212.720@68.0.1212.720" timestamp="1583372132269" />
-    <state width="1169" height="220" key="GridCell.Tab.0.bottom" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom" timestamp="1583544296737">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.0.bottom/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.0.center" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.0.bottom/68.0.1212.720@68.0.1212.720" timestamp="1583544296737" />
+    <state width="1169" height="220" key="GridCell.Tab.0.center" timestamp="1583544296737">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.0.center/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.0.left" timestamp="1583513152133">
+    <state width="1169" height="220" key="GridCell.Tab.0.center/68.0.1212.720@68.0.1212.720" timestamp="1583544296737" />
+    <state width="1169" height="220" key="GridCell.Tab.0.left" timestamp="1583544296737">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.0.left/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152133" />
-    <state width="1169" height="220" key="GridCell.Tab.0.right" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.0.left/68.0.1212.720@68.0.1212.720" timestamp="1583544296737" />
+    <state width="1169" height="220" key="GridCell.Tab.0.right" timestamp="1583544296737">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.0.right/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.1.bottom" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.0.right/68.0.1212.720@68.0.1212.720" timestamp="1583544296737" />
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom" timestamp="1583544296738">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.1.bottom/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.1.center" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.1.bottom/68.0.1212.720@68.0.1212.720" timestamp="1583544296738" />
+    <state width="1169" height="220" key="GridCell.Tab.1.center" timestamp="1583544296738">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.1.center/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.1.left" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.1.center/68.0.1212.720@68.0.1212.720" timestamp="1583544296738" />
+    <state width="1169" height="220" key="GridCell.Tab.1.left" timestamp="1583544296738">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.1.left/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state width="1169" height="220" key="GridCell.Tab.1.right" timestamp="1583513152134">
+    <state width="1169" height="220" key="GridCell.Tab.1.left/68.0.1212.720@68.0.1212.720" timestamp="1583544296738" />
+    <state width="1169" height="220" key="GridCell.Tab.1.right" timestamp="1583544296738">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
     <state width="1169" height="220" key="GridCell.Tab.1.right/2022.0.1264.768/68.0.1212.720@68.0.1212.720" timestamp="1583513152134" />
-    <state x="370" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583372200990">
+    <state width="1169" height="220" key="GridCell.Tab.1.right/68.0.1212.720@68.0.1212.720" timestamp="1583544296738" />
+    <state x="370" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1583620121788">
       <screen x="68" y="0" width="1212" height="720" />
     </state>
-    <state x="370" y="184" key="com.intellij.ide.util.TipDialog/68.0.1212.720@68.0.1212.720" timestamp="1583372200990" />
+    <state x="370" y="184" key="com.intellij.ide.util.TipDialog/68.0.1212.720@68.0.1212.720" timestamp="1583620121788" />
   </component>
 </project>

@@ -55,25 +55,33 @@ object DfToJson extends App {
   //Carregando os dados do HDFS
   val sqlContext = new org.apache.spark.sql.SQLContext(sc)
   var hdfs_lines = sc.textFile(file_name_in)
-  hdfs_lines = hdfs_lines.map(x => x.replace("- -", ""))
-  hdfs_lines = hdfs_lines.map(x => x.replace("  ", " "))
-  hdfs_lines = hdfs_lines.map(x => x.replace(" -", ""))
-  hdfs_lines = hdfs_lines.map(x => x.replace("[", ""))
-  hdfs_lines = hdfs_lines.map(x => x.replace("]", ""))
-  val squidHeader = "Host Datahora Get Requisição Http Codigo_http Total_bytes"
+  hdfs_lines = hdfs_lines.map(x => x.replace("|", "__"))
+  hdfs_lines = hdfs_lines.map(x => x.replace("\" HTTP", "HTTP"))
+  hdfs_lines = hdfs_lines.map(x => x.replace(" - - [", "|"))
+  hdfs_lines = hdfs_lines.map(x => x.replace("] \"", "|"))
+  hdfs_lines = hdfs_lines.map(x => x.replace("\" ", "|"))
+  hdfs_lines = hdfs_lines.map(x => x.replace("alyssa.p", ""))
+  val squidHeader = "Host Datahora Requisicao Codigo_http_bytes"
   val schema = StructType(squidHeader.split(" ").map(fieldName => StructField(fieldName,StringType, true)))
-  val rowRDD = hdfs_lines.map(_.split(" ")).map(x => Row(x(0), x(1), x(2), x(3), x(4), x(5), x(6)))
+  val rowRDD = hdfs_lines.map(_.split("|")).map(x => Row(x(0), x(1), x(2), x(3), x(4), x(5), x(6)))
   val squidDF = sqlContext.createDataFrame(rowRDD, schema)
-  squidDF.registerTempTable("squid")
-  val df = sqlContext.sql("select * from squid")
-  val df1 = df.withColumn(
-    "Requisição", concat(col("Get"),lit(literal = " "),col("Requisição"),lit(literal = " "),col("Http"))
+  squidDF.registerTempTable("nasa")
+  val df_full = sqlContext.sql("select * from nasa")
+
+  //Criando Df
+  val df1 = df_full.withColumn("Codigo_http", split(col("Codigo_http_bytes"), " ").getItem(0)
+  ).withColumn("Total_bytes", split(col("Codigo_http_bytes")," ").getItem(1)
   ).select(
     col("Host"),
     col("Datahora"),
-    col("Requisição"),
+    col("Requisicao"),
     col("Codigo_http"),
     col("Total_bytes")
+  ).withColumn("Total_bytes", when(col("Total_bytes")==="-","0"
+  ).when(col("Total_bytes")==="","0"
+  ).when(col("Total_bytes")===" ","0"
+  ).when(col("Total_bytes").isNull(),"0"
+  ).otherwise(col("Total_bytes"))
   )
 
   //Número de hosts únicos.
